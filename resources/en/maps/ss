@@ -1,0 +1,37 @@
+vertex	44	96
+vertex	56	100
+vertex	88	64
+vertex	84	52
+vertex	80	136
+vertex	68	144
+vertex	64	200
+vertex	76	204
+vertex	48	236
+vertex	36	232
+vertex	60	268
+vertex	52	276
+vertex	100	272
+vertex	92	264
+vertex	100	204
+vertex	92	208
+vertex	96	136
+vertex	108	140
+vertex	128	92
+vertex	116	92
+
+sector	-4 20	0 1 2 3	-1 1 10 9	0 3 6
+sector	-4 20	0 1 4 5	-1 0 10 2	0 3 6
+sector	-4 20	4 5 6 7	11 1 -1 3	5 3 6
+sector	-4 20	6 7 8 9	-1 2 12 4	0 3 6
+sector	-4 20	9 8 10 11	-1 3 12 5	0 3 6
+sector	-4 20	10 11 12 13	12 4 -1 6	0 3 6
+sector	-4 20	13 12 14 15	12 5 -1 7	0 3 6
+sector	-4 20	14 15 16 17	-1 6 11 8	5 3 6
+sector	-4 20	16 17 18 19	10 7 -1 9	0 3 6
+sector	-4 20	18 19 2 3	-1 8 10 0	0 3 6
+sector	0 20	2 1 4 16 19	9 0 1 11 8	0 3 3
+sector	0 20	4 16 15 7	2 10 7 12	0 3 3
+sector	0 20	7 15 13 10 8	3 11 6 5 4	0 3 3
+
+player	98 87 0	10
+
